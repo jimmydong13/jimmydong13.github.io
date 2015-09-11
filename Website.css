@@ -1,0 +1,26 @@
+#intro {
+	color: white;
+	font-size: 18px;
+}
+
+h1 {
+	font-size: 60px;
+}
+div {
+	background-color: black;
+	width: 100px;
+}
+
+
+#name {
+	color: white;
+	background-color: red;
+	font-size: 12px;
+	width: 50px;
+}
+
+
+.outerdiv {
+	text-align: center;
+
+}
