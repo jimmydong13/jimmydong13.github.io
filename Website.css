@@ -8,8 +8,8 @@ h1 {
 }
 div {
 	background-color: black;
-	width: 100px;
-	text-align: center;
+	width: 1000px;
+	margin: 0 auto;
 }
 
 
@@ -17,11 +17,17 @@ div {
 	color: white;
 	background-color: red;
 	font-size: 12px;
-	width: 50px;
+	width: 500px;
+	margin: 0 auto;
 }
 
 
 .outerdiv {
 	text-align: center;
 
+}
+
+body{
+	background-repeat: no-repeat;
+	background-size: 100% 350%;
 }
